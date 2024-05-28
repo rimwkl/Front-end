@@ -1,27 +1,39 @@
-# DigitalBankingWeb
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h1>Front-end</h1>
+<img src="captures/img.png">
+<img src="captures/img_1.png">
+<img src="captures/img_2.png">
+<img src="captures/img_3.png">
+<img src="captures/img_4.png">
+<img src="captures/img_5.png">
+<img src="captures/img_6.png">
+<img src="captures/img_7.png">
+<img src="captures/img_8.png">
+<img src="captures/img_9.png">
+<img src="captures/img_10.png">
+<img src="captures/img_11.png">
+<img src="captures/img_12.png">
+<img src="captures/img_13.png">
+<img src="captures/img_14.png">
+<img src="captures/img_15.png">
+<img src="captures/img_16.png">
+<img src="captures/img_17.png">
+<img src="captures/img_18.png">
+<img src="captures/img_19.png">
+<img src="captures/img_20.png">
+<img src="captures/img_21.png">
+<img src="captures/img_22.png">
+<img src="captures/img_23.png">
+<img src="captures/img_24.png">
+<img src="captures/img_25.png">
+<img src="captures/img_26.png">
+<img src="captures/img_27.png">
+<img src="captures/img_28.png">
+<img src="captures/img_29.png">
+<img src="captures/img_30.png">
+<img src="captures/img_31.png">
+<img src="captures/img_32.png">
+<img src="captures/img_33.png">
+<img src="captures/img_34.png">
+<img src="captures/img_35.png">
+<img src="captures/img_36.png">
+<img src="captures/img_37.png">
